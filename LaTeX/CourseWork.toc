@@ -1,0 +1,27 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{ЗАДАНИЕ НА КУРСОВОЙ ПРОЕКТ}{4}{Doc-Start}%
+\contentsline {section}{ВВЕДЕНИЕ}{5}{Doc-Start}%
+\contentsline {section}{\numberline {1}ОБЗОР СУЩЕСТВУЮЩИХ МЕТОДОВ ПОСТРОЕНИЯ СТАТИСТИЧЕСКИХ КРЕДИТНЫХ РЕЙТИНГОВ}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Зарубежная практика оценки кредитоспособности}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Отечественная практика оценки кредитоспособности}{9}{subsection.1.2}%
+\contentsline {section}{\numberline {2}ИСПОЛЬЗУЕМЫЙ ПОДХОД, МЕТОДЫ И АЛГОРИТМЫ ПОСТРОЕНИЯ СТАТИСТИЧЕСКИХ КРЕДИТНЫХ РЕЙТИНГОВ}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Математическое описание модели данных}{11}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Этапы построения статистических кредитных рейтингов}{14}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Общее описание схемы используемого подхода}{14}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Предварительный статистический анализ данных}{14}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Исследование статистической зависимости финансовых коэффициентов на основе корреляционного анализа}{15}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Обнаружение аномалий при помощи алгоритма Isolation Forest}{15}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Формирование классификационных признаков по методу главных компонент}{17}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Построение статистических кредитных рейтингов на основе кластерного анализа в пространстве главных компонент}{20}{subsubsection.2.2.6}%
+\contentsline {section}{\numberline {3}РЕЗУЛЬТАТЫ ПОСТРОЕНИЯ СТАТИСТИЧЕСКИХ КРЕДИТНЫХ РЕЙТИНГОВ НА ОСНОВЕ ИСПОЛЬЗУЕМОГО ПОДХОДА}{23}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Описание данных финансовой отчётности}{23}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Результаты применения корреляционного анализа}{24}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Результаты формирования классификационных признаков с помощью метода главных компонент}{25}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Результаты классификации, полученные с помощью алгоритма K-средних}{26}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Результаты классификации, полученные с помощью алгоритма иерархического кластерного анализа}{28}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Сравнительный анализ результатов построения статистических кредитных рейтингов}{30}{subsection.3.6}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{31}{subsection.3.6}%
+\contentsline {section}{СПИСОК ИСТОЧНИКОВ}{32}{Item.25}%
+\contentsline {subsection}{\numberline {3.6}Сравнительный анализ результатов построения статистических кредитных рейтингов}{30}{subsection.3.6}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{31}{subsection.3.6}%
+\contentsline {section}{СПИСОК ИСТОЧНИКОВ}{32}{Item.25}%
