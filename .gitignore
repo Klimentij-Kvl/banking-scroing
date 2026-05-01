@@ -1,2 +1,7 @@
 .venv
 .vscode
+*.aux
+*.log
+*.pdf
+*.toc
+*.gz

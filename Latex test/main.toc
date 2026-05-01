@@ -1,3 +1,0 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{Unnumbered Section}{2}{}%
-\contentsline {section}{\numberline {2}Second Section}{2}{}%
